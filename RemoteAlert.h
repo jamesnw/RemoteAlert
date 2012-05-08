@@ -41,7 +41,7 @@ extern NSString *const kRemoteAlertDeclinedToRate;
 extern NSString *const kRemoteAlertReminderRequestDate;
 extern NSString *const kRemoteAlertLastMessageVersion;
 
-#define REMOTEALERT_ALERT_LOCATION @"http://up.jamesnweber.com/_chinstrapps/remoteAlert/BIABCalc/RemoteAlert.json"
+#define REMOTEALERT_ALERT_LOCATION @"https://github.com/jamesnw/RemoteAlert/blob/master/RemoteAlert.json"
 /*
  Users will need to have the same version of your app installed for this many
  days before they will be prompted to rate it.
