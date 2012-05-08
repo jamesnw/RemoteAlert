@@ -1,0 +1,9 @@
+{
+	"show":"YES",
+	"title":"New Update Available",
+	"message":"New Things are available.",
+	"link":"https://github.com/jamesnw/RemoteAlert",
+	"acceptButtonTitle":"Check it Out",
+	"cancelButtonTitle":"No, Thank you",
+	"version":"0"
+}
