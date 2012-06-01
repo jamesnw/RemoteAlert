@@ -22,6 +22,10 @@ The JSON file on your website has the following fields-
 6. "cancelButtonTitle" - the text of the button that will do nothing
 7. "version" - a unique ID for the alert. This helps the RemoteAlert class differentiate between alerts, so users see new alerts, but not repeatedly see old alerts. While this can a string, the easiest way to use this is to simply increment an integer for each new alert.
 
+Apps Using RemoteAlert
+----------------------
+For a list of Apps using RemoteAlert, check out [the Wiki Page.](https://github.com/jamesnw/RemoteAlert/wiki/Apps-using-RemoteAlert)
+
 License
 -------
 Copyright 2012. [James Stuckey Weber] (https://github.com/jamesnw/).
